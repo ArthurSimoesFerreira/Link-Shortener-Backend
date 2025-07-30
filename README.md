@@ -79,3 +79,5 @@ npm run dev
 ```
 
 ---
+
+Esse projeto ainda está em desenvolvimento!
